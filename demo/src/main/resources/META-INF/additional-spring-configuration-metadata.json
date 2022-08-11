@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "pessoa.cpf",
+      "type": "java.lang.String",
+      "description": "Description for pessoa.cpf."
+    },
+    {
+      "name": "pessoa.nome",
+      "type": "java.lang.String",
+      "description": "Description for pessoa.nome."
+    }
+  ] }
